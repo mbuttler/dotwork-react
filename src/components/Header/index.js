@@ -23,7 +23,7 @@ const Header = () => (
                         textDecoration: 'none',
                     }}
                 >
-                    help.signiant.com
+                    Matty Butts <sub>x</sub> React
                 </Link>
             </h1>
         </div>

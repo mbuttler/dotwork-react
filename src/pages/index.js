@@ -18,7 +18,7 @@ const Card = styled(Link)`
 `;
 const IndexPage = () => (
     <div>
-        <h1>Signiant Help Center</h1>
+        <h1>Matthewbuttler.work</h1>
         <p>Click a link below to go somewhere else</p>
         <CardContainer>
             <Card to="/getting-started">Getting started</Card>

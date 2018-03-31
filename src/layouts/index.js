@@ -10,7 +10,7 @@ const TemplateWrapper = ({ children }) => (
     <div>
         <Chrome header={<Header />}>
             <Helmet
-                title="help.signiant.com"
+                title="Matt's Gatsby Project matthewbuttler.work/dotwork-react"
                 meta={[
                     { name: 'description', content: 'Sample' },
                     { name: 'keywords', content: 'sample, something' },
