@@ -24,7 +24,3 @@ Then you can run it by:
 cd gatsby-example-site
 npm run develop
 ```
-
-## Netlify
-
-[You can see this thing on netlify](https://boring-bassi-6a4514.netlify.com/)
