@@ -1,6 +1,7 @@
 module.exports = {
     siteMetadata: {
-        title: 'Welcome to the docs!',
+        title: 'docs.matthewbuttler.work',
+        pathPrefix: '/dotwork-react',
     },
     plugins: [
         'gatsby-plugin-react-helmet',
@@ -28,4 +29,4 @@ module.exports = {
             },
         },
     ],
-}
+};

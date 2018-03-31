@@ -1,4 +1,4 @@
-# HELP.SIGNIANT.COM
+# matthewbuttler.work
 
 *   based on gatsby-starter-default
 
@@ -28,11 +28,3 @@ npm run develop
 ## Netlify
 
 [You can see this thing on netlify](https://boring-bassi-6a4514.netlify.com/)
-
-## JFROG Auth
-
-Edit your .bash_profile with
-
-```bash
-export NPM_TOKEN="yourJfrogTokenHere"
-```
